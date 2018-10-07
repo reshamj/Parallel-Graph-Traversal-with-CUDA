@@ -59,7 +59,9 @@ If (tid is less than the total number of nodes) then
 	
 	
 	End
-End
+  End
+
+
 
 
 Commands to execute BFS (Breadth First Search) algorithm/program:
